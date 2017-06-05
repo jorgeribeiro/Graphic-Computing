@@ -1,0 +1,20 @@
+﻿  main.cpp
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\main.cpp(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\main.cpp(154): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\main.cpp(170): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\main.cpp(323): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\main.cpp(324): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\main.cpp(325): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\main.cpp(326): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\main.cpp(327): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\visual studio 2017\projects\cuberenderer\cuberenderer\main.cpp(328): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+  CubeRenderer.vcxproj -> C:\Users\Jorge Ribeiro\Documents\Visual Studio 2017\Projects\CubeRenderer\Debug\CubeRenderer.exe
+  CubeRenderer.vcxproj -> C:\Users\Jorge Ribeiro\Documents\Visual Studio 2017\Projects\CubeRenderer\Debug\CubeRenderer.pdb (Partial PDB)

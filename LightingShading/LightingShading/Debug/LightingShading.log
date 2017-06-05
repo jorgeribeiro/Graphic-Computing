@@ -1,16 +1,28 @@
 ﻿  main.cpp
-c:\users\jorge ribeiro\documents\visual studio 2017\projects\lightingshading\lightingshading\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
-c:\users\jorge ribeiro\documents\visual studio 2017\projects\lightingshading\lightingshading\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\jorge ribeiro\documents\visual studio 2017\projects\lightingshading\lightingshading\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\jorge ribeiro\documents\visual studio 2017\projects\lightingshading\lightingshading\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\jorge ribeiro\documents\visual studio 2017\projects\lightingshading\lightingshading\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\jorge ribeiro\documents\visual studio 2017\projects\lightingshading\lightingshading\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\jorge ribeiro\documents\visual studio 2017\projects\lightingshading\lightingshading\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\jorge ribeiro\documents\visual studio 2017\projects\lightingshading\lightingshading\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
-c:\users\jorge ribeiro\documents\visual studio 2017\projects\lightingshading\lightingshading\main.cpp(71): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\jorge ribeiro\documents\visual studio 2017\projects\lightingshading\lightingshading\main.cpp(72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\jorge ribeiro\documents\visual studio 2017\projects\lightingshading\lightingshading\main.cpp(73): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\jorge ribeiro\documents\visual studio 2017\projects\lightingshading\lightingshading\main.cpp(123): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-c:\users\jorge ribeiro\documents\visual studio 2017\projects\lightingshading\lightingshading\main.cpp(128): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-  LightingShading.vcxproj -> c:\users\jorge ribeiro\documents\visual studio 2017\Projects\LightingShading\Debug\LightingShading.exe
-  LightingShading.vcxproj -> c:\users\jorge ribeiro\documents\visual studio 2017\Projects\LightingShading\Debug\LightingShading.pdb (Partial PDB)
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\main.cpp(71): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\main.cpp(72): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\main.cpp(73): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\main.cpp(123): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\main.cpp(128): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  InitShader.cpp
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\angel.h(63): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\mat.h(707): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\mat.h(708): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\mat.h(709): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\mat.h(730): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\mat.h(732): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\mat.h(735): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\mat.h(752): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\jorge ribeiro\documents\github\graphic-computing\lightingshading\lightingshading\initshader.cpp(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  Generating Code...
+  LightingShading.vcxproj -> C:\Users\Jorge Ribeiro\Documents\GitHub\Graphic-Computing\LightingShading\Debug\LightingShading.exe
+  LightingShading.vcxproj -> C:\Users\Jorge Ribeiro\Documents\GitHub\Graphic-Computing\LightingShading\Debug\LightingShading.pdb (Partial PDB)

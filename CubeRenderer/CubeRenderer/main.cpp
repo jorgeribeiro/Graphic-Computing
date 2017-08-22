@@ -58,7 +58,7 @@ GLfloat  Theta[NumAxes] = { 0.0, 0.0, 0.0 };
 
 GLfloat radius = 1.0;
 GLfloat theta = 0.0;
-GLfloat phi = 0.0;;
+GLfloat phi = 0.0;
 
 const GLfloat  dr = 5.0 * DegreesToRadians;
 
